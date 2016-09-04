@@ -169,29 +169,6 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="tsconfig.json" />
     <Content Include="typings.json" />
-    <Content Include="typings\modules\aurelia-binding\typings.json" />
-    <Content Include="typings\modules\aurelia-bootstrapper\typings.json" />
-    <Content Include="typings\modules\aurelia-dependency-injection\typings.json" />
-    <Content Include="typings\modules\aurelia-event-aggregator\typings.json" />
-    <Content Include="typings\modules\aurelia-fetch-client\typings.json" />
-    <Content Include="typings\modules\aurelia-framework\typings.json" />
-    <Content Include="typings\modules\aurelia-history-browser\typings.json" />
-    <Content Include="typings\modules\aurelia-history\typings.json" />
-    <Content Include="typings\modules\aurelia-loader\typings.json" />
-    <Content Include="typings\modules\aurelia-logging-console\typings.json" />
-    <Content Include="typings\modules\aurelia-logging\typings.json" />
-    <Content Include="typings\modules\aurelia-metadata\typings.json" />
-    <Content Include="typings\modules\aurelia-pal-browser\typings.json" />
-    <Content Include="typings\modules\aurelia-pal\typings.json" />
-    <Content Include="typings\modules\aurelia-path\typings.json" />
-    <Content Include="typings\modules\aurelia-polyfills\typings.json" />
-    <Content Include="typings\modules\aurelia-route-recognizer\typings.json" />
-    <Content Include="typings\modules\aurelia-router\typings.json" />
-    <Content Include="typings\modules\aurelia-task-queue\typings.json" />
-    <Content Include="typings\modules\aurelia-templating-binding\typings.json" />
-    <Content Include="typings\modules\aurelia-templating-resources\typings.json" />
-    <Content Include="typings\modules\aurelia-templating-router\typings.json" />
-    <Content Include="typings\modules\aurelia-templating\typings.json" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
